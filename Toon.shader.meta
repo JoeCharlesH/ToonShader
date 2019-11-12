@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39ab9164ee59d6843bafbdd2c4d172f0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AlbedoTex: {instanceID: 0}
+  - _SpecularTex: {instanceID: 0}
+  - _NormalTex: {fileID: 2800000, guid: c044ed3a4c8e9d145a1a70d108eb0198, type: 3}
+  - _ToonShaderRampTex: {fileID: 2800000, guid: 82d13d9cc66f1e24c8b9776352c9276b,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
